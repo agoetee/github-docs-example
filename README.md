@@ -5,7 +5,7 @@
 Codeblocks in markdown makes it *very easy* for tech people to **copy, paste and share** code.
 A good __Cloud Engineer__ uses Codeblocks whenever possible.
 
-Because it allows others to copy and paste their codes to replicate or research issues.
+Because it allows others to copy and paste their codes to replicate or research issues. [<sup>[a]</sup>](#external-references)
 
 - In order to use Codeblocks in markdown, you need to use three backticks **(```)**
 - Not to be confused with single quotes __(''')__
@@ -90,7 +90,7 @@ Table creation is referenced in the resources below [<sup>[2]</sup>](#external-r
 Github extends the functionality of markdown tables to provide more alignment and table cell formatting options.
 
 ## External References
-- [Basic writing and formatting syntax (Github Flavored Markdown)](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+- [Basic writing and formatting syntax (Github Flavored Markdown)](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)<sup>[a]</sup>
 - [GFM full Documentation](https://github.github.com/gfm/)
 - [agoetee Home Repos](https://github.com/agoetee?tab=repositories) 
 - [Task Lists](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#task-lists)<sup>[1]</sup>
