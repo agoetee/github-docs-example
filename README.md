@@ -89,6 +89,15 @@ Table creation is referenced in the resources below [<sup>[2]</sup>](#external-r
 ```
 Github extends the functionality of markdown tables to provide more alignment and table cell formatting options.
 
+## Image Uploads
+Added this image via object uploads. It shows multiple monitor setup and it is great Cloud Engineers
+> Markdown syntax appears like the below image. No flexibility to resize and format the looks of the image
+
+![Photo Upload- Multi screen](assets/multi-monitor-setup.jpg)
+
+> html syntax appears like this. There is flexibility in size and positioning
+<img width="500px" src="assets/multi-monitor-setup.jpg" />
+
 ## External References
 - [Basic writing and formatting syntax (Github Flavored Markdown)](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)<sup>[a]</sup>
 - [GFM full Documentation](https://github.github.com/gfm/)
