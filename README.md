@@ -98,6 +98,8 @@ Added this image via object uploads. It shows multiple monitor setup and it is g
 > html syntax appears like this. There is flexibility in size and positioning
 <img width="500px" src="assets/multi-monitor-setup.jpg" />
 
+[Secret Window Hidden Garden](secret-window/hidden-garden.md)
+
 ## External References
 - [Basic writing and formatting syntax (Github Flavored Markdown)](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)<sup>[a]</sup>
 - [GFM full Documentation](https://github.github.com/gfm/)
